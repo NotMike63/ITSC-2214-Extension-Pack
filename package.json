@@ -1,0 +1,22 @@
+{
+  "name": "itsc-2214",
+  "displayName": "ITSC 2214",
+  "description": "An extension pack containing everything needed for ITSC 2214",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "kylpo.vscode-menu-builder", 
+    "oliver-ni.web-cat-vscode", 
+    "redhat.java", 
+    "vscjava.vscode-java-debug", 
+    "vscjava.vscode-java-dependency", 
+    "vscjava.vscode-java-test", 
+    "vscjava.vscode-maven", 
+    "vscjava.vscode-spring-initializr"
+  ]
+}
